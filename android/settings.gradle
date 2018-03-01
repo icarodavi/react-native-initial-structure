@@ -1,0 +1,3 @@
+rootProject.name = 'initialStructure'
+
+include ':app'
