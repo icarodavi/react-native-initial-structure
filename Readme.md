@@ -1,8 +1,8 @@
-#react-native-initial-structure
+# react-native-initial-structure
 
 Estrutura inicial para começar um app usando React Native.
 
-##Instalações e Configurações
+## Instalações e Configurações
 
 Na estrutura já estão pré-configurados:
 
